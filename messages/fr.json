@@ -1,0 +1,15 @@
+{
+  "_comment_menu": "Contient les éléments du menu de navigation",
+  "menu": {
+    "link1": "accueil",
+    "link2": "services",
+    "link3": "témoignages",
+    "link4": "contact",
+    "title": "Next.js 15 Démarrage avec Multilingue & Mode Sombre."
+  },
+  "_comment_card": "Contient les informations de la carte d'information",
+  "card": {
+    "title": "Mode Sombre et Mode Clair avec Context API",
+    "description": "Permettez à vos utilisateurs de basculer facilement entre les thèmes sombre et clair dans une application Next.js. Cette solution utilise Context API, TypeScript et Tailwind CSS pour une expérience utilisateur fluide, moderne et performante."
+  }
+}

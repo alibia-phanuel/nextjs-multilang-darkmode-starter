@@ -1,0 +1,15 @@
+{
+  "_comment_menu": "Contains the navigation menu items",
+  "menu": {
+    "link1": "home",
+    "link2": "services",
+    "link3": "Testimonial",
+    "link4": "Contact",
+    "title": "Next.js 15 Getting started with Multilingual & Dark Mode."
+  },
+  "_comment_card": "Contains the information for the card",
+  "card": {
+    "title": "Dark Mode and Light Mode with Context API",
+    "description": "Allow your users to easily switch between dark and light themes in a Next.js application. This solution uses Context API, TypeScript, and Tailwind CSS for a smooth, modern, and efficient user experience."
+  }
+}
